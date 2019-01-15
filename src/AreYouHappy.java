@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	if (name.equals("Yes")) {
 		JOptionPane.showMessageDialog(null, "Keep doing whatever you're doing!");
 	    
+	} else if
 	
 	
 
